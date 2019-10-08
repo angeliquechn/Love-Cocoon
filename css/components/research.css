@@ -1,0 +1,28 @@
+.tittle {
+	margin: 30px 20px 10px 20px;
+}
+
+.card {
+	background-color: white;
+	padding: 25px 50px;
+	margin: auto;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px lightgrey;
+	text-align: center;
+}
+
+.cards {
+	justify-content: space-around;
+	display: flex;
+	margin-bottom: 30px;
+}
+
+p {
+  font-size: 20px;
+  color: #F992BC;
+}
+
+p:hover {
+	color: red;
+}
+

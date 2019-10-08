@@ -1,0 +1,45 @@
+.p2 {
+	font-family:'Karla', sans-serif;
+	color : black ;
+	border : solid;
+	border-radius: 20px;
+	margin: 150px 150px 20px 150px;
+	text-align: left;
+	padding: 10px;
+	width: 350px;
+	justify-content: flex-end;
+}
+
+img {
+	width: 320px;
+	height: 250px
+	border :double ;
+	margin: auto, 20px, auto, 50px;
+	justify-content : center;
+	border-radius: 20px;
+	opacity: 70%;
+}
+
+.card {
+	background-color: white;
+	padding: 25px 50px;
+	margin: auto;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px lightgrey;
+	text-align: center;
+}
+
+.cards {
+	justify-content: space-around;
+	display: flex;
+	margin-bottom: 30px;
+}
+
+p {
+  font-size: 20px;
+  color: #F992BC;
+}
+
+p:hover {
+	color: red;
+}

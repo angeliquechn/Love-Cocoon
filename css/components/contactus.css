@@ -1,0 +1,15 @@
+li {
+	display: flex;
+	justify-content: space-around;
+}
+
+ul {
+	display: flex;
+	color: black;
+	list-style-type: none;
+	font-size: 40px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 400px 20px 400px;
+    justify-content: space-around;
+}
